@@ -5,12 +5,12 @@
 A high-performance Flutter application integrated with a Gambling Affiliate Program, offering a comprehensive ecosystem for match analytics, betting management, and user education.
 ---
 
-## Status
+## 🚀 Status
 - **Google Play Store:** ✅ Verified & Published
 - **Current Version:** 1.0.0
 - **Build:** Flutter Stable Channel
 
-## Overview
+## 📖 Overview
 This application serves as a bridge between sports data and betting strategy. It provides real-time match statistics and results while offering a secure environment for users to manage their betting activities and improve their skills through a dedicated Betting Academy.
 
 ## ✨ Key Features
