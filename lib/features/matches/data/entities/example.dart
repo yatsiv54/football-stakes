@@ -1,0 +1,17 @@
+import 'package:json_annotation/json_annotation.dart';
+
+part 'example.g.dart';
+
+@JsonSerializable()
+class Person {
+  final String firstName;
+  final String lastName;
+
+  @JsonKey(name: 'date_of_birth')
+  final DateTime? dateOfBirth;
+  Person({required this.firstName, required this.lastName, this.dateOfBirth});
+
+  factory Person.fromJson(Map<String, dynamic> json) => _$PersonFromJson(json);
+
+  Map<String, dynamic> toJson() => _$PersonToJson(this);
+}
