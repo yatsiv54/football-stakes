@@ -21,8 +21,8 @@ This application serves as a bridge between sports data and betting strategy. It
 
 ## 📸 Screenshots
 <p align="center">
-  <img src="screenshots/1.png" width="200" alt="Main Screen">
-  <img src="screenshots/2.png" width="200" alt="Details Screen">
-  <img src="screenshots/3.png" width="200" alt="Statistics Screen">
-  <img src="screenshots/4.png" width="200" alt="Statistics Screen">
+  <img src="screenshots/1.png" width="300" alt="Main Screen">
+  <img src="screenshots/2.png" width="300" alt="Details Screen">
+  <img src="screenshots/3.png" width="300" alt="Statistics Screen">
+  <img src="screenshots/4.png" width="300" alt="Statistics Screen">
 </p>
