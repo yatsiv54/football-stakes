@@ -1,5 +1,9 @@
 ## Fortuna Stats & Academy ⚽️🎰
+
+![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
+
 A high-performance Flutter application integrated with a Gambling Affiliate Program, offering a comprehensive ecosystem for match analytics, betting management, and user education.
+---
 
 ## Status
 - **Google Play Store:** ✅ Verified & Published
